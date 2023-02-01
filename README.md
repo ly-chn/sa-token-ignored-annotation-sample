@@ -1,4 +1,9 @@
+## 必看
+目前sa-token已支持此功能, 请勿参考此项目
+详见: [sa-token更新日志](https://sa-token.cc/doc.html#/more/update-log?id=_2022-9-8-v1310)
+
 ## sa-token 如何根据不同的注解适应不同鉴权操作场景
+
 
 [来源sa-token issue230](https://github.com/dromara/Sa-Token/issues/230)
 
@@ -12,3 +17,4 @@
 主要用法在`kim.nzxy.satokenignoredannotationsample.controller.UserController`中
 
 注: 接口500是因为没做异常拦截
+
